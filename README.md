@@ -17,9 +17,9 @@ TFM-MIA/
 │   └──complete_report_features_and_text_replay.csv      # 0. Datos del juego Shadowspect desarrollado por el MIT.  
 │
 ├── TFM_completed_level.ipynb      						 # 1. Active Learning y LLMs en entornos tabulares.
-├── TFM_help_assistant.ipynb       						 # 2. LLMs en diversos puntos de la traza de texto (textReplay).
-├── TFM_help_assistant_25_segmented_by_puzzle.ipynb      # 3. LLMs segmentado por cada puzzle del juego Shadowspect.
-└── TFM_help_assistant_25_key_events.ipynb     	 		 # 4. XAI (Explainable AI) aplicado a los LLMs del juego Shadowspect.
+├── TFM_textReplay_key_events.ipynb     	 		 	 # 2. XAI (Explainable AI) aplicado a los LLMs del juego Shadowspect.
+├── TFM_help_assistant.ipynb       						 # 3. LLMs en diversos puntos de la traza de texto (textReplay).
+└── TFM_help_assistant_segmented_by_puzzle.ipynb      	 # 4. LLMs segmentado por cada puzzle del juego Shadowspect.
            
 ```
 
